@@ -1,0 +1,4 @@
+s="Apples"
+str=s[0: :2]
+res="*".join(str)
+print(res)
