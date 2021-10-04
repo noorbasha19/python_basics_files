@@ -1,0 +1,8 @@
+str="Bangalore"
+s=" "
+j=0
+for i in range(0,len(str)):
+    if j<=len(str):
+        s=s+str[j]+"*"
+        j+=2
+print(s)
