@@ -1,0 +1,4 @@
+d={'a':'apple','b':'boy','c':'cat','d':'dog','e':'elf'}
+print("Keys of the dictionary are:",d.keys())
+
+print("Values of dictionary are:",d.values())
